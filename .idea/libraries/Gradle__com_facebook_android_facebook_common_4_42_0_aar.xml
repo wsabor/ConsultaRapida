@@ -1,15 +1,15 @@
 <component name="libraryTable">
-  <library name="Gradle: com.facebook.android:facebook-common:4.42.0@aar">
+  <library name="Gradle: com.facebook.android:facebook-common:4.42.0@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle/lib/caches/transforms-3/f1cdcd9f51c5e9d50c1da3974d1dcfe2/transformed/jetified-facebook-common-4.42.0/jars/classes.jar!/" />
-      <root url="file://$APPLICATION_HOME_DIR$/plugins/gradle/lib/caches/transforms-3/f1cdcd9f51c5e9d50c1da3974d1dcfe2/transformed/jetified-facebook-common-4.42.0/AndroidManifest.xml" />
-      <root url="file://$APPLICATION_HOME_DIR$/plugins/gradle/lib/caches/transforms-3/f1cdcd9f51c5e9d50c1da3974d1dcfe2/transformed/jetified-facebook-common-4.42.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/a64ab43750ca91b7863070df12399f21/transformed/jetified-facebook-common-4.42.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/a64ab43750ca91b7863070df12399f21/transformed/jetified-facebook-common-4.42.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/a64ab43750ca91b7863070df12399f21/transformed/jetified-facebook-common-4.42.0/res" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle/lib/caches/modules-2/files-2.1/com.facebook.android/facebook-common/4.42.0/8fa84fa52dc0cca66fc95bc7366611664d906479/facebook-common-4.42.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-common/4.42.0/8fa84fa52dc0cca66fc95bc7366611664d906479/facebook-common-4.42.0-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle/lib/caches/modules-2/files-2.1/com.facebook.android/facebook-common/4.42.0/530f5efa4a36dbe8c7b41563278085ffc59b5b26/facebook-common-4.42.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-common/4.42.0/530f5efa4a36dbe8c7b41563278085ffc59b5b26/facebook-common-4.42.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -1,7 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 33
+    compileSdkVersion 34
     //    multiDexEnabled true
 
     defaultConfig {
@@ -20,6 +20,11 @@ android {
         }
     }
     namespace 'crapida.app.consultarapida'
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    buildToolsVersion '35.0.0'
 }
 
 repositories {
@@ -29,14 +34,14 @@ repositories {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'androidx.appcompat:appcompat:1.5.1'
-    implementation 'com.google.firebase:firebase-storage:20.1.0'
-    implementation 'com.google.firebase:firebase-auth:21.1.0'
-    implementation 'com.google.firebase:firebase-database:20.1.0'
+    implementation 'androidx.appcompat:appcompat:1.7.0'
+    implementation 'com.google.firebase:firebase-storage:21.0.0'
+    implementation 'com.google.firebase:firebase-auth:23.0.0'
+    implementation 'com.google.firebase:firebase-database:21.0.0'
     implementation 'com.google.firebase:firebase-core:21.1.1'
-    implementation 'com.google.android.material:material:1.7.0'
+    implementation 'com.google.android.material:material:1.12.0'
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
-    implementation 'androidx.vectordrawable:vectordrawable:1.1.0'
+    implementation 'androidx.vectordrawable:vectordrawable:1.2.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     implementation 'com.facebook.android:facebook-android-sdk:[4,5)'
     implementation 'com.github.bumptech.glide:glide:3.7.0'

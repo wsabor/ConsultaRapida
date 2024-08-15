@@ -1,12 +1,12 @@
 <component name="libraryTable">
-  <library name="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar">
+  <library name="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle/lib/caches/transforms-3/abd7aaeb79eae65c1bd1e0e024975ffc/transformed/dynamicanimation-1.0.0/jars/classes.jar!/" />
-      <root url="file://$APPLICATION_HOME_DIR$/plugins/gradle/lib/caches/transforms-3/abd7aaeb79eae65c1bd1e0e024975ffc/transformed/dynamicanimation-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/2705300247cf1904450c869e8bd16e46/transformed/dynamicanimation-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/2705300247cf1904450c869e8bd16e46/transformed/dynamicanimation-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle/lib/caches/modules-2/files-2.1/androidx.dynamicanimation/dynamicanimation/1.0.0/5c050e29af5033ff5e2d58ccf657ae92fdfbda4a/dynamicanimation-1.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.dynamicanimation/dynamicanimation/1.0.0/5c050e29af5033ff5e2d58ccf657ae92fdfbda4a/dynamicanimation-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
